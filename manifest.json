@@ -3,6 +3,12 @@
   "version": "1.0.0",
   "manifest_version": 3,
   "description": "Kayo Maximum Resolution",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{4195054b-14cb-447a-94f1-423ff15c73f0}",
+      "strict_min_version": "109.0"
+    }
+  },
   "content_scripts": [{
     "matches": [
       "https://kayosports.com.au/*"

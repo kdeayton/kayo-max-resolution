@@ -2,7 +2,7 @@
 
 A Chrome Extension that forces the maximum resolution for Kayo Sports to be applied
 
-Highly inspired by <a href="https://github.com/logore/amazon-prime-video-1080p/">Amazon Prime Video 1080p</a>
+Highly inspired by <a href="https://github.com/logore/amazon-prime-video-1080p/">Amazon Prime Video 1080p</a>. Many thanks!
 <br>
 
 ## How does it work?
@@ -17,9 +17,12 @@ Manually... Check the video on the inspired Repository
 
 ## Support
 
-#### Chromium browsers
-- Google Chrome
-- Opera
+#### Chromium browsers 
+- Google Chrome; works well!
+- Opera (doesn't seem to properly work, haven't found a solution, may not find a solution...)
+
+#### Other browsers
+- Firefox; works well!
 
 #### OS
 - Windows
@@ -31,7 +34,7 @@ Manually... Check the video on the inspired Repository
 <br>
 
 ## Information
-Not tested in all Chromium browsers
+Not tested in all Chromium browsers; only those mentioned above.
 
 Also, I accept issues, so please feel free to open an issue!
 
